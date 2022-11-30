@@ -42,7 +42,7 @@ jQuery(function($){
             secondes.html(se);
             ss.html('Seconde' + (se > 1 ? 's' : ''));
 
-            $('#text').html("L'anniversaire de Blade Kalonda est imminent, vous êtes averti pour mieux préparez vos cadeaux, souhaits, et tant d'autres surprises car elle débute dans...")
+            $('#text').html("L'anniversaire de Blade Kalonda est imminent, vous êtes averti pour mieux préparez vos cadeaux, souhaits, et tant d'autres surprises car elle débute dans...");
 
             setTimeout(setDate, 1000);
         }
